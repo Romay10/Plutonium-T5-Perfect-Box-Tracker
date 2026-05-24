@@ -28,3 +28,6 @@ The file you need is:
 
 ```txt
 common_zombie_patch.ff
+
+##Known issue:
+Animated camo packs or weapon-related mods may conflict with the box weapon logic.
