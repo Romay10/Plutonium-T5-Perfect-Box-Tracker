@@ -23,11 +23,10 @@ The tracker is built directly into the patch, so no external `.exe` is required.
 ## Download
 
 Download the latest release from the **Releases** section of this repository.
+##Known issue:
+Animated camo packs or weapon-related mods may conflict with the box weapon logic.
 
 The file you need is:
 
 ```txt
 common_zombie_patch.ff
-
-##Known issue:
-Animated camo packs or weapon-related mods may conflict with the box weapon logic.
